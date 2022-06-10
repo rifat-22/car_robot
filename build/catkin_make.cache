@@ -1,0 +1,2 @@
+car_robot
+-DCATKIN_DEVEL_PREFIX=/home/rifat/rviz_seba/devel -DCMAKE_INSTALL_PREFIX=/home/rifat/rviz_seba/install -G Unix Makefiles
